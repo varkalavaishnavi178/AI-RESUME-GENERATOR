@@ -24,4 +24,4 @@ It takes user input like name, education, skills, and projects, and generates a 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Generator.git
+git clone https://github.com/varkalavaishnavi178/AI-RESUME-GENERATOR.git
